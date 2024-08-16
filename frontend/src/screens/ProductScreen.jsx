@@ -9,7 +9,7 @@ import { useGetProductDetailsQuery, useCreateReviewMutation } from '../slices/pr
 import Loader from '../components/Loader.jsx';
 import Message from '../components/Message.jsx';
 import {addToCart} from '../slices/cartSlice.js'
-import e from 'express';
+
 
 
 const ProductScreen = () => {
